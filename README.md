@@ -1,2 +1,3 @@
-# Matty-Addons
-My idiots
+# Matty Addons  
+Welcome to MattyCord. Heres my official addons
+
